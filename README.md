@@ -1,8 +1,7 @@
-print("hello world")
+#python programming 
+#multiplication table
 
+i=int(input(":"))
+for k in range(1,13):
+    print(k,"X",i,"=",k*i)
 
-
-
-Hi,I am Lorshan
-
-Welcome to the programming industry
